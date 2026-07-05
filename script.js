@@ -28,8 +28,8 @@ console.log(fullname);
 
 const name1 = "isse";
 let age1 = 28;
-console.log("my name is " + name1 + " and I am " + age1 + " years old");
-console.log(age1 * 10);
+console.log(`my name is ${name1} and I am ${age1} years old`);
+console.log(age1 + 10);
 console.log(typeof name1);
 console.log(typeof age1);
 console.log(age1 > 18);
